@@ -1,0 +1,106 @@
+
+body{
+    background-color: black;
+}
+.icons{
+    text-align: center;
+    padding-top: 20px;
+    background-color: black;
+    width: auto;
+    height: 50px;
+    padding-bottom: 10px;
+    
+
+}
+.fa-brands.fa-facebook{
+    color: blue;
+
+}
+.fa-brands.fa-youtube{
+    color: red;
+}
+.fa-brands.fa-instagram{
+    color: palevioletred;
+}
+i{
+    margin-right: 20px;
+    font-size: larger;
+    margin-top: 10px;
+}
+
+.pic{
+    background-color: pink;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 20px;
+    
+    
+}
+.icons.pic{
+    text-align: center;
+}
+.container{
+    background-color:black;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    padding: 10px;
+    height: 500px;
+}
+.container > div{
+    background-color: yellowgreen;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+}
+footer{
+    background-color: black;
+    height: 60px;
+    width: auto;
+    text-align: center;
+}
+p{
+    color: white;
+}
+audio{
+    color: white;
+    
+}
+
+video{
+    color: white;
+}
+.first{
+    width: 300px;
+    
+    margin-top: 100px;
+}
+.two{
+    width: 300px;
+    margin-top: 100px;
+}
+.three{
+    width: 300px;
+    margin-top: 100px;
+}
+.four{
+    width: 300px;
+    margin-top: 100px;
+}
+.devone{
+    background: rgb(255, 255, 255);
+}
+.devtwo{
+    background: yellow;
+}
+a{
+    margin-right: 20px;
+    background-color: white;
+   text-decoration: none;
+   padding: 20px;
+   color: black;
+   border-radius: 3px;
+}
